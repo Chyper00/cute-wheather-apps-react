@@ -5,14 +5,14 @@
 <a href="https://reactappsclima.herokuapp.com/"> DEMO </a>
 
  <h2> How to use </h2>
- 
+ <br/>
  Get Api for Google Maps 
- index.html
+ <b>index.html</b>
  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=[YOUR-API-KEY]&libraries=geometry,places"></script>
- 
+ <br/>
  
  Get Openweathermap api 
- app.js
+ <b>app.js</b>
  const api_call= await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cidade},Br&appid=${API_KEY}`);
  
  
