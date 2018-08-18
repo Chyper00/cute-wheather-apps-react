@@ -16,7 +16,7 @@
  const api_call= await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cidade},Br&appid=${API_KEY}`);
  
  
- <h2> Referencies </h2>
+ <h2> References </h2>
  
 <li > <a href="https://reactjs.org/"> ReactJs </a></li>  
 <li > <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/"> Bootstrap 4 </a></li>  
