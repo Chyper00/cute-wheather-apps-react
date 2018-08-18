@@ -103,19 +103,10 @@ class App extends React.Component{
           
           <p className="card-text"><center><Clima description={this.state.description}/></center></p>
         </div>
-<hr/>
-        <div className="card-text">
-          <ul className="list-inline">
-            <li className="list-inline-item">DOM </li>
-            <li className="list-inline-item">SEG </li>
-            <li className="list-inline-item">TER </li>
-            <li className="list-inline-item">QUA </li>
-            <li className="list-inline-item">QUI </li>
-            <li className="list-inline-item">SEX </li>
-            <li className="list-inline-item">SAB </li>
-          </ul>
 
-        </div>
+       
+
+      
       </div>
     </div>
 
