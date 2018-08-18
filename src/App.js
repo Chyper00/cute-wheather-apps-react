@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Form from "./components/Form";
 import Clima from "./components/Clima";
 
-const API_KEY = "17eda3bf5e032a90a90e18c8a3f93f62";
+const API_KEY = "[YOUR-KEY]";
 
 
 
